@@ -1,0 +1,12 @@
+EfficientNet/2EffNet_8_384/
+EfficientNet/Fine_215EffNet_8_384/
+EfficientNet/Fine-2EffNet_8_384/
+EfficientNet/Fine-220EffNet_8_384/
+MobileNet/MobileNet_1/
+MobileNet/MobileNet_8/
+MobileNet/MobileNet_8-7/
+MobileNet/MobileNet_16/
+MobileNet/MobileNet_202/
+Sequential/Sequential_128.h5/
+Sequential/Sequential_299.h5/
+Sequential2/Sequential_128.h5/

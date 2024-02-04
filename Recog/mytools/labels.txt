@@ -1,0 +1,15 @@
+0 Abacate
+1 Abacaxi
+2 Banana
+3 Cenoura
+4 Framboesa
+5 Kiwi
+6 Laranja
+7 Lima
+8 Limao
+9 Maca
+10 Manga
+11 Melao
+12 Milho
+13 Morango
+14 Tomate
